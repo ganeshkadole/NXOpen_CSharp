@@ -1,6 +1,5 @@
 ﻿using NXOpen;
 using NXOpen.UF;
-using System.Drawing;
 
 public class CreateLine
 {
